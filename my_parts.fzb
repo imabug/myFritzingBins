@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.1b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="Serial_enabled_lcd_kit_lcd_10097_bb8f8e346eaffb3ae755ddebf8a9fb09_2" modelIndex="85417605" path="/home/eugenem/.config/Fritzing/parts/user/Serial_enabled_lcd_kit_lcd_10097_bb8f8e346eaffb3ae755ddebf8a9fb09_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_SFE_LCD-00258_c40cca0daa9f9df82fee4e71d7f251c1_20" modelIndex="85417607" path="/home/eugenem/.config/Fritzing/parts/user/prefix0000_SFE_LCD-00258_c40cca0daa9f9df82fee4e71d7f251c1_20.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="32b1aea64df586b3482e7d3c8b1b9eba_4" modelIndex="85417609" path="/home/eugenem/.config/Fritzing/parts/user/Arduino_UNO_R3.fzp_32b1aea64df586b3482e7d3c8b1b9eba_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_DEV-12757_03_5ef8f943c423ea7554a1252f44c73343_4" modelIndex="85417680" path="/home/eugenem/.config/Fritzing/parts/user/prefix0000_DEV-12757_03_5ef8f943c423ea7554a1252f44c73343_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_SFE_BOB-11570_03ce5857c6bad44422fb66d02fa524bd_8" modelIndex="85417685" path="/home/eugenem/.config/Fritzing/parts/user/prefix0000_SFE_BOB-11570_03ce5857c6bad44422fb66d02fa524bd_8.fzp" flippedSMD="true">
+            <property name="flippedSMD" value="true"/>
+            <views/>
+        </instance>
+        <instance moduleIdRef="DDS AD9850_1caa16677e28ad2da75cd2b54a2c9d15_43" modelIndex="85417691" path="/home/eugenem/.config/Fritzing/parts/user/DDS AD9850_1caa16677e28ad2da75cd2b54a2c9d15_43.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
